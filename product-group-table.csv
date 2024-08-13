@@ -1,0 +1,201 @@
+CategoryID,CategoryName,Description,ParentCategoryID,CreationDate,LastModifiedDate,IsActive,ImageURL,SalesTaxRate,ShippingWeight
+1,Electronics,Electronics and Gadgets,0,2024-06-11,2024-06-11,1,http://example.com/electronics.jpg,0.15,2.5
+2,Appliances,Home Appliances,0,2024-06-11,2024-06-11,1,http://example.com/appliances.jpg,0.10,10.0
+3,Clothing,Clothing and Apparel,0,2024-06-11,2024-06-11,1,http://example.com/clothing.jpg,0.08,1.0
+4,Books,Books and Literature,0,2024-06-11,2024-06-11,1,http://example.com/books.jpg,0.05,0.5
+5,Sports & Outdoors,Sports and Recreation,0,2024-06-11,2024-06-11,1,http://example.com/sports.jpg,0.12,3.0
+6,Home & Garden,Home and Garden Supplies,0,2024-06-11,2024-06-11,1,http://example.com/home.jpg,0.09,5.0
+7,Health & Beauty,Health and Beauty Products,0,2024-06-11,2024-06-11,1,http://example.com/beauty.jpg,0.07,1.5
+8,Baby & Kids,Baby and Kids Products,0,2024-06-11,2024-06-11,1,http://example.com/baby.jpg,0.08,2.0
+9,Toys & Games,Toys and Games,0,2024-06-11,2024-06-11,1,http://example.com/toys.jpg,0.06,1.8
+10,Pets,Pet Supplies,0,2024-06-11,2024-06-11,1,http://example.com/pets.jpg,0.05,2.3
+11,Furniture,Home Furniture,0,2024-06-11,2024-06-11,1,http://example.com/furniture.jpg,0.10,15.0
+12,Office Supplies,Office Supplies and Stationery,0,2024-06-11,2024-06-11,1,http://example.com/office.jpg,0.08,3.5
+13,Food & Beverages,Food and Beverages,0,2024-06-11,2024-06-11,1,http://example.com/food.jpg,0.07,1.2
+14,Automotive,Auto Parts and Accessories,0,2024-06-11,2024-06-11,1,http://example.com/automotive.jpg,0.10,8.0
+15,Electronics Accessories,Accessories for Electronics,1,2024-06-11,2024-06-11,1,http://example.com/electronics_accessories.jpg,0.10,0.5
+16,Women's Clothing,Women's Clothing,3,2024-06-11,2024-06-11,1,http://example.com/womens_clothing.jpg,0.08,1.0
+17,Men's Clothing,Men's Clothing,3,2024-06-11,2024-06-11,1,http://example.com/mens_clothing.jpg,0.08,1.0
+18,Kitchen Appliances,Kitchen Appliances,2,2024-06-11,2024-06-11,1,http://example.com/kitchen_appliances.jpg,0.09,12.0
+19,Baby Care,Baby Care Products,8,2024-06-11,2024-06-11,1,http://example.com/baby_care.jpg,0.06,1.5
+20,Outdoor Recreation,Outdoor Recreation Equipment,5,2024-06-11,2024-06-11,1,http://example.com/outdoor_recreation.jpg,0.12,4.0
+21,Home Decor,Home Decor and Accents,6,2024-06-11,2024-06-11,1,http://example.com/home_decor.jpg,0.08,3.0
+22,Personal Care,Personal Care Products,7,2024-06-11,2024-06-11,1,http://example.com/personal_care.jpg,0.07,1.2
+23,Bed & Bath,Bedroom and Bathroom Supplies,6,2024-06-11,2024-06-11,1,http://example.com/bed_bath.jpg,0.09,4.5
+24,Stationery,Stationery Supplies,12,2024-06-11,2024-06-11,1,http://example.com/stationery.jpg,0.05,0.8
+25,Pet Food,Pet Food Products,10,2024-06-11,2024-06-11,1,http://example.com/pet_food.jpg,0.05,2.0
+26,Gardening,Gardening Supplies,6,2024-06-11,2024-06-11,1,http://example.com/gardening.jpg,0.08,3.5
+27,Medical Supplies,Medical Supplies and Equipment,7,2024-06-11,2024-06-11,1,http://example.com/medical_supplies.jpg,0.07,1.5
+28,Children's Toys,Toys for Children,9,2024-06-11,2024-06-11,1,http://example.com/children_toys.jpg,0.06,1.7
+29,Books for Children,Books for Children,4,2024-06-11,2024-06-11,1,http://example.com/books_children.jpg,0.04,0.4
+30,Beauty Products,Beauty and Skincare Products,7,2024-06-11,2024-06-11,1,http://example.com/beauty_products.jpg,0.07,1.0
+31,Electronic Accessories,Accessories for Electronics,1,2024-06-11,2024-06-11,1,http://example.com/electronic_accessories.jpg,0.08,0.6
+32,Baking Supplies,Baking Supplies and Ingredients,6,2024-06-11,2024-06-11,1,http://example.com/baking_supplies.jpg,0.06,2.2
+33,DIY & Tools,DIY and Tools,6,2024-06-11,2024-06-11,1,http://example.com/diy_tools.jpg,0.10,6.0
+34,Exercise & Fitness,Exercise and Fitness Equipment,5,2024-06-11,2024-06-11,1,http://example.com/exercise_fitness.jpg,0.11,3.8
+35,Party Supplies,Party Decorations and Supplies,6,2024-06-11,2024-06-11,1,http://example.com/party_supplies.jpg,0.08,2.5
+36,Travel Accessories,Travel Accessories and Gear,1,2024-06-11,2024-06-11,1,http://example.com/travel_accessories.jpg,0.07,0.7
+37,Smart Home Devices,Smart Home Devices and Automation,1,2024-06-11,2024-06-11,1,http://example.com/smart_home.jpg,0.09,1.2
+38,Home Improvement,Home Improvement Tools and Supplies,6,2024-06-11,2024-06-11,1,http://example.com/home_improvement.jpg,0.10,5.5
+39,Camping Gear,Camping and Hiking Equipment,5,2024-06-11,2024-06-11,1,http://example.com/camping_gear.jpg,0.12,6.0
+40,Pet Accessories,Accessories for Pets,10,2024-06-11,2024-06-11,1,http://example.com/pet_accessories.jpg,0.05,1.0
+41,Board Games,Board Games and Puzzles,9,2024-06-11,2024-06-11,1,http://example.com/board_games.jpg,0.05,0.8
+42,Mobile Accessories,Accessories for Mobile Devices,1,2024-06-11,2024-06-11,1,http://example.com/mobile_accessories.jpg,0.08,0.4
+43,Home Security,Home Security Systems and Devices,1,2024-06-11,2024-06-11,1,http://example.com/home_security.jpg,0.10,2.0
+44,Kitchenware,Kitchenware and Cooking Utensils,2,2024-06-11,2024-06-11,1,http://example.com/kitchenware.jpg,0.09,1.8
+45,DIY Crafts,DIY Crafts and Supplies,6,2024-06-11,2024-06-11,1,http://example.com/diy_crafts.jpg,0.07,1.0
+46,Computer Accessories,Accessories for Computers,1,2024-06-11,2024-06-11,1,http://example.com/computer_accessories.jpg,0.08,0.5
+47,Outdoor Clothing,Outdoor Clothing and Apparel,5,2024-06-11,2024-06-11,1,http://example.com/outdoor_clothing.jpg,0.08,1.5
+48,Cosmetics,Beauty Cosmetics and Makeup,7,2024-06-11,2024-06-11,1,http://example.com/cosmetics.jpg,0.06,0.8
+49,Car Accessories,Accessories for Cars and Vehicles,14,2024-06-11,2024-06-11,1,http://example.com/car_accessories.jpg,0.10,4.5
+50,Gifts & Novelties,Unique Gifts and Novelties,6,2024-06-11,2024-06-11,1,http://example.com/gifts.jpg,0.08,1.0
+51,Video Games,Video Games and Consoles,9,2024-06-11,2024-06-11,1,http://example.com/video_games.jpg,0.05,0.8
+52,Outdoor Furniture,Outdoor Furniture and Decor,11,2024-06-11,2024-06-11,1,http://example.com/outdoor_furniture.jpg,0.10,20.0
+53,Art & Crafts,Art and Craft Supplies,6,2024-06-11,2024-06-11,1,http://example.com/art_crafts.jpg,0.07,1.2
+54,Pet Grooming,Pet Grooming Supplies,10,2024-06-11,2024-06-11,1,http://example.com/pet_grooming.jpg,0.06,1.0
+55,Audio Equipment,Audio Equipment and Accessories,1,2024-06-11,2024-06-11,1,http://example.com/audio_equipment.jpg,0.09,1.5
+56,Travel Gear,Travel Gear and Luggage,1,2024-06-11,2024-06-11,1,http://example.com/travel_gear.jpg,0.07,1.2
+57,Smartphone Cases,Cases and Covers for Smartphones,1,2024-06-11,2024-06-11,1,http://example.com/smartphone_cases.jpg,0.08,0.3
+58,Camping Accessories,Accessories for Camping,39,2024-06-11,2024-06-11,1,http://example.com/camping_accessories.jpg,0.05,0.7
+59,Bathroom Accessories,Bathroom Accessories and Fixtures,23,2024-06-11,2024-06-11,1,http://example.com/bathroom_accessories.jpg,0.06,1.0
+60,Home Lighting,Lighting Fixtures and Accessories,6,2024-06-11,2024-06-11,1,http://example.com/home_lighting.jpg,0.08,1.8
+61,Car Care,Car Care Products and Supplies,14,2024-06-11,2024-06-11,1,http://example.com/car_care.jpg,0.07,1.5
+62,Computer Software,Software and Applications,46,2024-06-11,2024-06-11,1,http://example.com/computer_software.jpg,0.05,0.5
+63,Health Supplements,Dietary Supplements and Vitamins,7,2024-06-11,2024-06-11,1,http://example.com/health_supplements.jpg,0.08,0.5
+64,Pet Beds,Pet Beds and Bedding,10,2024-06-11,2024-06-11,1,http://example.com/pet_beds.jpg,0.06,1.2
+65,Fitness Accessories,Fitness Accessories and Gear,34,2024-06-11,2024-06-11,1,http://example.com/fitness_accessories.jpg,0.09,0.8
+66,Home Security Cameras,Security Cameras and Surveillance Systems,43,2024-06-11,2024-06-11,1,http://example.com/security_cameras.jpg,0.10,1.5
+67,Painting Supplies,Painting Supplies and Tools,53,2024-06-11,2024-06-11,1,http://example.com/painting_supplies.jpg,0.06,1.2
+68,Gaming Accessories,Accessories for Gaming Consoles,51,2024-06-11,2024-06-11,1,http://example.com/gaming_accessories.jpg,0.07,0.5
+69,Pet Training,Pet Training and Behavior Aids,10,2024-06-11,2024-06-11,1,http://example.com/pet_training.jpg,0.05,1.0
+70,Smartwatches & Wearables,Smartwatches and Wearable Technology,1,2024-06-11,2024-06-11,1,http://example.com/smartwatches.jpg,0.08,0.5
+71,Outdoor Cooking,Outdoor Cooking Equipment and Accessories,39,2024-06-11,2024-06-11,1,http://example.com/outdoor_cooking.jpg,0.09,5.0
+72,Home Entertainment,Home Entertainment Systems and Devices,1,2024-06-11,2024-06-11,1,http://example.com/home_entertainment.jpg,0.08,2.5
+73,Party Games,Games and Activities for Parties,35,2024-06-11,2024-06-11,1,http://example.com/party_games.jpg,0.06,0.8
+74,Car Electronics,Electronics for Cars and Vehicles,49,2024-06-11,2024-06-11,1,http://example.com/car_electronics.jpg,0.10,3.0
+75,Gift Cards,Gift Cards and Vouchers,50,2024-06-11,2024-06-11,1,http://example.com/gift_cards.jpg,0.05,0.2
+76,Home Renovation,Home Renovation and Improvement Supplies,38,2024-06-11,2024-06-11,1,http://example.com/home_renovation.jpg,0.09,8.0
+77,Pet Health,Pet Health and Wellness Products,10,2024-06-11,2024-06-11,1,http://example.com/pet_health.jpg,0.07,1.2
+78,Cycling Gear,Cycling Gear and Accessories,5,2024-06-11,2024-06-11,1,http://example.com/cycling_gear.jpg,0.08,1.5
+79,Home Organization,Home Organization and Storage Solutions,6,2024-06-11,2024-06-11,1,http://example.com/home_organization.jpg,0.06,1.0
+80,Computer Peripherals,Peripherals for Computers,46,2024-06-11,2024-06-11,1,http://example.com/computer_peripherals.jpg,0.07,0.8
+81,Mobile Apps,Mobile Applications and Software,42,2024-06-11,2024-06-11,1,http://example.com/mobile_apps.jpg,0.05,0.4
+82,Home Maintenance,Home Maintenance and Repair Tools,38,2024-06-11,2024-06-11,1,http://example.com/home_maintenance.jpg,0.08,6.0
+83,Camping Clothing,Clothing and Apparel for Camping,39,2024-06-11,2024-06-11,1,http://example.com/camping_clothing.jpg,0.07,1.0
+84,Photography Equipment,Photography Equipment and Accessories,1,2024-06-11,2024-06-11,1,http://example.com/photography_equipment.jpg,0.08,1.5
+85,Novelty Gifts,Fun and Unique Gifts,50,2024-06-11,2024-06-11,1,http://example.com/novelty_gifts.jpg,0.06,0.5
+86,Board Game Accessories,Accessories for Board Games,41,2024-06-11,2024-06-11,1,http://example.com/board_game_accessories.jpg,0.05,0.3
+87,Gaming Consoles,Gaming Consoles and Systems,51,2024-06-11,2024-06-11,1,http://example.com/gaming_consoles.jpg,0.09,4.0
+88,Outdoor Recreation Clothing,Clothing for Outdoor Recreation,20,2024-06-11,2024-06-11,1,http://example.com/outdoor_clothing.jpg,0.08,1.2
+89,Cosplay & Costumes,Cosplay Costumes and Accessories,3,2024-06-11,2024-06-11,1,http://example.com/cosplay_costumes.jpg,0.07,1.0
+90,Desk Accessories,Accessories for Desks and Workspaces,12,2024-06-11,2024-06-11,1,http://example.com/desk_accessories.jpg,0.05,0.5
+91,Home Theater Systems,Home Theater Systems and Accessories,72,2024-06-11,2024-06-11,1,http://example.com/home_theater.jpg,0.10,3.5
+92,Party Decorations,Decorations for Parties and Events,35,2024-06-11,2024-06-11,1,http://example.com/party_decorations.jpg,0.06,0.8
+93,Car Parts,Parts and Accessories for Cars,49,2024-06-11,2024-06-11,1,http://example.com/car_parts.jpg,0.09,5.0
+94,Healthy Snacks,Healthy Snacks and Nutrition Bars,13,2024-06-11,2024-06-11,1,http://example.com/healthy_snacks.jpg,0.05,0.3
+95,Smart Home Security,Security Systems for Smart Homes,67,2024-06-11,2024-06-11,1,http://example.com/smart_home_security.jpg,0.10,2.5
+96,Home Gym Equipment,Exercise Equipment for Home Gyms,34,2024-06-11,2024-06-11,1,http://example.com/home_gym.jpg,0.08,2.0
+97,Pet Toys,Toys and Playthings for Pets,10,2024-06-11,2024-06-11,1,http://example.com/pet_toys.jpg,0.06,0.7
+98,Travel Essentials,Essential Items for Traveling,56,2024-06-11,2024-06-11,1,http://example.com/travel_essentials.jpg,0.07,0.9
+99,Smartphone Accessories,Accessories for Smartphones,1,2024-06-11,2024-06-11,1,http://example.com/smartphone_accessories.jpg,0.08,0.4
+100,Car Cleaning,Car Cleaning Products and Supplies,61,2024-06-11,2024-06-11,1,http://example.com/car_cleaning.jpg,0.06,1.0
+101,Home Security Sensors,Sensors for Home Security Systems,66,2024-06-11,2024-06-11,1,http://example.com/home_security_sensors.jpg,0.09,0.5
+102,Cooking Utensils,Kitchen Utensils and Tools,44,2024-06-11,2024-06-11,1,http://example.com/cooking_utensils.jpg,0.08,1.2
+103,Mobile Phone Plans,Cell Phone Plans and Subscriptions,1,2024-06-11,2024-06-11,1,http://example.com/mobile_phone_plans.jpg,0.05,0.1
+104,Craft Kits,Craft Kits and DIY Projects,53,2024-06-11,2024-06-11,1,http://example.com/craft_kits.jpg,0.07,0.6
+105,Gaming Chairs,Gaming Chairs and Seating,87,2024-06-11,2024-06-11,1,http://example.com/gaming_chairs.jpg,0.08,2.0
+106,Outdoor Adventure Gear,Gear for Outdoor Adventures,19,2024-06-11,2024-06-11,1,http://example.com/outdoor_adventure_gear.jpg,0.10,5.5
+107,Pet Medications,Medications for Pets,77,2024-06-11,2024-06-11,1,http://example.com/pet_medications.jpg,0.07,0.8
+108,Running Gear,Running Gear and Accessories,5,2024-06-11,2024-06-11,1,http://example.com/running_gear.jpg,0.09,0.6
+109,Baby Gear,Baby Gear and Equipment,8,2024-06-11,2024-06-11,1,http://example.com/baby_gear.jpg,0.08,3.0
+110,Art Supplies,Art Supplies and Materials,67,2024-06-11,2024-06-11,1,http://example.com/art_supplies.jpg,0.06,1.0
+111,Home Cleaning Supplies,Cleaning Supplies for Home,59,2024-06-11,2024-06-11,1,http://example.com/home_cleaning_supplies.jpg,0.07,1.2
+112,Photography Accessories,Accessories for Photography,84,2024-06-11,2024-06-11,1,http://example.com/photography_accessories.jpg,0.08,0.9
+113,Gardening Tools,Tools for Gardening,19,2024-06-11,2024-06-11,1,http://example.com/gardening_tools.jpg,0.07,2.0
+114,Smartphone Gadgets,Innovative Gadgets for Smartphones,1,2024-06-11,2024-06-11,1,http://example.com/smartphone_gadgets.jpg,0.09,0.5
+115,Pet Food,Food for Pets,10,2024-06-11,2024-06-11,1,http://example.com/pet_food.jpg,0.06,1.5
+116,Camping Food,Food for Camping,39,2024-06-11,2024-06-11,1,http://example.com/camping_food.jpg,0.08,0.7
+117,Office Supplies,Office Supplies and Stationery,9,2024-06-11,2024-06-11,1,http://example.com/office_supplies.jpg,0.07,0.4
+118,Party Favors,Favors and Gifts for Parties,50,2024-06-11,2024-06-11,1,http://example.com/party_favors.jpg,0.06,0.3
+119,Health Gadgets,Gadgets for Health and Wellness,63,2024-06-11,2024-06-11,1,http://example.com/health_gadgets.jpg,0.08,0.6
+120,Pet Apparel,Clothing and Accessories for Pets,10,2024-06-11,2024-06-11,1,http://example.com/pet_apparel.jpg,0.07,0.9
+121,Travel Comfort,Comfort Items for Traveling,98,2024-06-11,2024-06-11,1,http://example.com/travel_comfort.jpg,0.08,1.1
+122,Smart Home Lighting,Smart Lighting Solutions for Home,66,2024-06-11,2024-06-11,1,http://example.com/smart_home_lighting.jpg,0.09,1.3
+123,Cycling Clothing,Clothing for Cycling,78,2024-06-11,2024-06-11,1,http://example.com/cycling_clothing.jpg,0.08,1.4
+124,Home Decor,Decorative Items for Home,6,2024-06-11,2024-06-11,1,http://example.com/home_decor.jpg,0.07,2.5
+125,Tech Gadgets,Latest Tech Gadgets and Innovations,1,2024-06-11,2024-06-11,1,http://example.com/tech_gadgets.jpg,0.09,0.7
+126,Fitness Trackers,Trackers for Fitness Activities,65,2024-06-11,2024-06-11,1,http://example.com/fitness_trackers.jpg,0.08,1.2
+127,Home Office Furniture,Furniture for Home Offices,40,2024-06-11,2024-06-11,1,http://example.com/home_office_furniture.jpg,0.10,15.0
+128,Pet Carriers,Carriers for Pets,99,2024-06-11,2024-06-11,1,http://example.com/pet_carriers.jpg,0.07,2.0
+129,Running Shoes,Shoes for Running,108,2024-06-11,2024-06-11,1,http://example.com/running_shoes.jpg,0.09,1.8
+130,Baby Clothing,Clothing for Babies,109,2024-06-11,2024-06-11,1,http://example.com/baby_clothing.jpg,0.06,1.0
+131,Home Storage Solutions,Storage Solutions for Home,79,2024-06-11,2024-06-11,1,http://example.com/home_storage.jpg,0.08,3.0
+132,Outdoor Sports Gear,Gear for Outdoor Sports,106,2024-06-11,2024-06-11,1,http://example.com/outdoor_sports_gear.jpg,0.10,6.0
+133,Pet Hygiene,Hygiene Products for Pets,115,2024-06-11,2024-06-11,1,http://example.com/pet_hygiene.jpg,0.07,1.3
+134,Tech Accessories,Accessories for Tech Devices,125,2024-06-11,2024-06-11,1,http://example.com/tech_accessories.jpg,0.08,0.8
+135,Outdoor Lighting,Lighting for Outdoor Areas,79,2024-06-11,2024-06-11,1,http://example.com/outdoor_lighting.jpg,0.07,3.5
+136,Home Improvement Tools,Tools for Home Improvement,38,2024-06-11,2024-06-11,1,http://example.com/home_improvement_tools.jpg,0.09,5.0
+137,Camping Gear & Accessories,Gear and Accessories for Camping,83,2024-06-11,2024-06-11,1,http://example.com/camping_gear_accessories.jpg,0.08,2.0
+138,Pet Treats,Treats for Pets,97,2024-06-11,2024-06-11,1,http://example.com/pet_treats.jpg,0.06,1.2
+139,Gaming Peripherals,Peripherals for Gaming,68,2024-06-11,2024-06-11,1,http://example.com/gaming_peripherals.jpg,0.07,1.0
+140,Travel Backpacks,Backpacks for Traveling,98,2024-06-11,2024-06-11,1,http://example.com/travel_backpacks.jpg,0.08,2.5
+141,Home Gardening Supplies,Supplies for Home Gardening,113,2024-06-11,2024-06-11,1,http://example.com/home_gardening.jpg,0.07,1.8
+142,Pet Nutrition,Nutrition Products for Pets,115,2024-06-11,2024-06-11,1,http://example.com/pet_nutrition.jpg,0.06,1.0
+143,Fitness Equipment,Equipment for Fitness Activities,96,2024-06-11,2024-06-11,1,http://example.com/fitness_equipment.jpg,0.09,2.5
+144,Home Kitchen Appliances,Appliances for Home Kitchens,102,2024-06-11,2024-06-11,1,http://example.com/home_kitchen_appliances.jpg,0.08,4.0
+145,Photography Drones,Drones for Photography,84,2024-06-11,2024-06-11,1,http://example.com/photography_drones.jpg,0.10,6.5
+146,Pet Bathing,Bathing Products for Pets,133,2024-06-11,2024-06-11,1,http://example.com/pet_bathing.jpg,0.07,1.0
+147,Travel Electronics,Electronics for Traveling,121,2024-06-11,2024-06-11,1,http://example.com/travel_electronics.jpg,0.08,1.2
+148,Gaming Monitors,Monitors for Gaming,87,2024-06-11,2024-06-11,1,http://example.com/gaming_monitors.jpg,0.09,3.5
+149,Home Comfort,Comfort Products for Home,124,2024-06-11,2024-06-11,1,http://example.com/home_comfort.jpg,0.07,2.0
+150,Pet Safety,Safety Products for Pets,133,2024-06-11,2024-06-11,1,http://example.com/pet_safety.jpg,0.06,1.3
+151,Smart Home Assistants,Smart Assistants for Home,145,2024-06-11,2024-06-11,1,http://example.com/smart_home_assistants.jpg,0.09,3.0
+152,Camping Furniture,Furniture for Camping,83,2024-06-11,2024-06-11,1,http://example.com/camping_furniture.jpg,0.07,2.0
+153,Pet Cleaning,Cleaning Products for Pets,133,2024-06-11,2024-06-11,1,http://example.com/pet_cleaning.jpg,0.06,1.1
+154,Home Scent,Home Scent Products,150,2024-06-11,2024-06-11,1,http://example.com/home_scent.jpg,0.08,0.6
+155,Outdoor Cooking Equipment,Equipment for Outdoor Cooking,71,2024-06-11,2024-06-11,1,http://example.com/outdoor_cooking_equipment.jpg,0.09,5.0
+156,Tech Wearables,Wearable Tech Devices,126,2024-06-11,2024-06-11,1,http://example.com/tech_wearables.jpg,0.08,1.0
+157,Pet Grooming Tools,Tools for Pet Grooming,133,2024-06-11,2024-06-11,1,http://example.com/pet_grooming_tools.jpg,0.07,1.2
+158,Travel Gadgets,Gadgets for Traveling,121,2024-06-11,2024-06-11,1,http://example.com/travel_gadgets.jpg,0.09,0.8
+159,Gaming Headsets,Headsets for Gaming,87,2024-06-11,2024-06-11,1,http://example.com/gaming_headsets.jpg,0.08,2.0
+160,Home Textiles,Textiles for Home,149,2024-06-11,2024-06-11,1,http://example.com/home_textiles.jpg,0.07,1.5
+161,Pet Playgrounds,Playgrounds for Pets,138,2024-06-11,2024-06-11,1,http://example.com/pet_playgrounds.jpg,0.10,5.0
+162,Outdoor Clothing,Clothing for Outdoor Activities,88,2024-06-11,2024-06-11,1,http://example.com/outdoor_clothing.jpg,0.07,1.3
+163,Smart Home Devices,Smart Devices for Home,145,2024-06-11,2024-06-11,1,http://example.com/smart_home_devices.jpg,0.09,3.5
+164,Camping Lights,Lights for Camping,152,2024-06-11,2024-06-11,1,http://example.com/camping_lights.jpg,0.08,1.0
+165,Pet Diet Products,Diet Products for Pets,142,2024-06-11,2024-06-11,1,http://example.com/pet_diet_products.jpg,0.06,1.0
+166,Home Safety,Safety Products for Home,149,2024-06-11,2024-06-11,1,http://example.com/home_safety.jpg,0.07,0.8
+167,Travel Organizers,Organizers for Traveling,98,2024-06-11,2024-06-11,1,http://example.com/travel_organizers.jpg,0.08,1.2
+168,Gaming Keyboards,Keyboards for Gaming,148,2024-06-11,2024-06-11,1,http://example.com/gaming_keyboards.jpg,0.09,1.8
+169,Pet Hydration,Hydration Products for Pets,142,2024-06-11,2024-06-11,1,http://example.com/pet_hydration.jpg,0.07,1.1
+170,Outdoor Tools,Tools for Outdoor Activities,113,2024-06-11,2024-06-11,1,http://example.com/outdoor_tools.jpg,0.08,2.5
+171,Smart Thermostats,Smart Thermostats for Home,145,2024-06-11,2024-06-11,1,http://example.com/smart_thermostats.jpg,0.09,1.2
+172,Camping Cooking Gear,Cooking Gear for Camping,155,2024-06-11,2024-06-11,1,http://example.com/camping_cooking_gear.jpg,0.07,0.9
+173,Pet Beds & Bedding,Beds and Bedding for Pets,64,2024-06-11,2024-06-11,1,http://example.com/pet_beds_bedding.jpg,0.06,1.2
+174,Home Office Supplies,Supplies for Home Office,117,2024-06-11,2024-06-11,1,http://example.com/home_office_supplies.jpg,0.08,1.5
+175,Travel Gear,Gear for Traveling,98,2024-06-11,2024-06-11,1,http://example.com/travel_gear.jpg,0.08,2.0
+176,Pet Toys & Games,Toys and Games for Pets,120,2024-06-11,2024-06-11,1,http://example.com/pet_toys_games.jpg,0.07,1.0
+177,Smart Light Bulbs,Smart Light Bulbs for Home,145,2024-06-11,2024-06-11,1,http://example.com/smart_light_bulbs.jpg,0.09,0.5
+178,Outdoor Sports Equipment,Equipment for Outdoor Sports,132,2024-06-11,2024-06-11,1,http://example.com/outdoor_sports_equipment.jpg,0.10,4.5
+179,Pet Training Tools,Tools for Pet Training,157,2024-06-11,2024-06-11,1,http://example.com/pet_training_tools.jpg,0.07,1.2
+180,Camping Accessories,Accessories for Camping,137,2024-06-11,2024-06-11,1,http://example.com/camping_accessories.jpg,0.08,1.5
+181,Smart Security Cameras,Security Cameras for Smart Homes,145,2024-06-11,2024-06-11,1,http://example.com/smart_security_cameras.jpg,0.09,2.0
+182,Home Automation,Home Automation Systems,145,2024-06-11,2024-06-11,1,http://example.com/home_automation.jpg,0.10,3.5
+183,Pet Food Dispensers,Automatic Food Dispensers for Pets,165,2024-06-11,2024-06-11,1,http://example.com/pet_food_dispensers.jpg,0.08,0.7
+184,Travel Comfort Items,Comfort Items for Traveling,121,2024-06-11,2024-06-11,1,http://example.com/travel_comfort_items.jpg,0.07,1.1
+185,Outdoor Adventure Equipment,Equipment for Outdoor Adventures,106,2024-06-11,2024-06-11,1,http://example.com/outdoor_adventure_equipment.jpg,0.10,6.0
+186,Smart Home Hubs,Hubs for Smart Home Systems,145,2024-06-11,2024-06-11,1,http://example.com/smart_home_hubs.jpg,0.09,1.8
+187,Pet Play Equipment,Play Equipment for Pets,161,2024-06-11,2024-06-11,1,http://example.com/pet_play_equipment.jpg,0.07,2.3
+188,Home Lighting Solutions,Lighting Solutions for Home,135,2024-06-11,2024-06-11,1,http://example.com/home_lighting_solutions.jpg,0.08,2.0
+189,Camping Tools,Tools for Camping,164,2024-06-11,2024-06-11,1,http://example.com/camping_tools.jpg,0.07,1.7
+190,Travel Bags & Luggage,Bags and Luggage for Travel,140,2024-06-11,2024-06-11,1,http://example.com/travel_bags_luggage.jpg,0.09,3.0
+191,Pet Fitness,Exercise Equipment for Pets,143,2024-06-11,2024-06-11,1,http://example.com/pet_fitness.jpg,0.07,1.4
+192,Home Security Systems,Security Systems for Home,166,2024-06-11,2024-06-11,1,http://example.com/home_security_systems.jpg,0.08,2.8
+193,Outdoor Apparel,Apparel for Outdoor Activities,162,2024-06-11,2024-06-11,1,http://example.com/outdoor_apparel.jpg,0.07,1.5
+194,Pet Health Supplements,Health Supplements for Pets,165,2024-06-11,2024-06-11,1,http://example.com/pet_health_supplements.jpg,0.06,0.9
+195,Smart Home Sensors,Sensors for Smart Home Systems,145,2024-06-11,2024-06-11,1,http://example.com/smart_home_sensors.jpg,0.09,1.2
+196,Camping Gear,Gear for Camping,137,2024-06-11,2024-06-11,1,http://example.com/camping_gear.jpg,0.08,1.9
+197,Pet Travel Accessories,Travel Accessories for Pets,175,2024-06-11,2024-06-11,1,http://example.com/pet_travel_accessories.jpg,0.07,0.8
+198,Home Automation Devices,Devices for Home Automation,182,2024-06-11,2024-06-11,1,http://example.com/home_automation_devices.jpg,0.09,2.0
+199,Outdoor Cooking Accessories,Accessories for Outdoor Cooking,155,2024-06-11,2024-06-11,1,http://example.com/outdoor_cooking_accessories.jpg,0.07,1.1
+200,Pet Exercise Equipment,Exercise Equipment for Pets,179,2024-06-11,2024-06-11,1,http://example.com/pet_exercise_equipment.jpg,0.08,1.3

@@ -1,0 +1,98 @@
+ProductID,ProductName,Description,UnitPrice,QuantityInStock,Manufacturer,CategoryID,Weight,Dimensions,ReleaseDate
+1,Smartphone X,High-end smartphone with advanced features,799,1500,ABC Electronics,1,0.2,5.7x2.8x0.3 inches,1/15/2023
+2,Laptop Pro,Powerful laptop for professional use,1499,800,XYZ Technologies,2,2.5,14.1x9.7x0.8 inches,11/30/2022
+3,Smart TV 55,Ultra HD smart TV with built-in streaming apps,999,600,ABC Electronics,3,28.5,48.5x29.5x2.5 inches,3/20/2023
+4,Wireless Headphones,Bluetooth headphones with noise cancellation,199,1200,SoundTech Inc.,4,0.5,7.2x6.9x3.1 inches,2/10/2023
+5,Tablet Mini,Compact tablet for on-the-go use,399,1000,Global Mobile,1,0.7,8.4x5.3x0.4 inches,4/5/2023
+6,Home Security Camera,Indoor/outdoor security camera with HD resolution,129,2000,SecureTech,5,0.3,3.7x2.5x2.5 inches,1/30/2023
+7,Gaming Console,Next-gen gaming console with 4K support,499,500,GameTech Ltd.,6,4.8,15.4x11.3x2.6 inches,12/20/2022
+8,Smartwatch Pro,Advanced smartwatch with health tracking features,349,900,Wearables Inc.,7,0.1,1.6x1.4x0.4 inches,5/10/2023
+9,Wireless Earbuds,True wireless earbuds with long battery life,149,1800,SoundTech Inc.,4,0.03,2.1x1.8x1.3 inches,3/1/2023
+10,Desktop Monitor 27,High-resolution monitor for immersive viewing,299,700,DisplayTech,8,12,24.5x15.2x1.8 inches,2/25/2023
+11,Smart Speaker,Voice-controlled smart speaker with virtual assistant,79,2500,HomeTech Ltd.,9,2.2,5.6x3.9x3.9 inches,4/20/2023
+12,Portable Bluetooth Speaker,Compact speaker with wireless connectivity,49,3000,AudioTech,4,0.6,6.1x3.2x3.0 inches,1/10/2023
+13,External Hard Drive 2TB,High-capacity external storage for data backup,89,1000,Storage Solutions,10,0.5,4.7x3.1x0.6 inches,3/15/2023
+15,USB Flash Drive 128GB,Compact storage device for transferring files,19,2500,Storage Solutions,10,0.02,2.2x0.8x0.3 inches,3/5/2023
+16,External SSD 500GB,Portable solid-state drive for fast data transfer,149,1500,Storage Solutions,10,0.1,3.9x2.3x0.3 inches,4/10/2023
+17,Bluetooth Mouse,Wireless mouse with ergonomic design,29,2000,Input Devices Ltd,13,0.08,4.1x2.3x1.4 inches,1/20/2023
+18,Smart Thermostat,Programmable thermostat for energy efficiency,129,1000,HomeTech Ltd.,14,0.4,3.3x3.3x1.1 inches,2/15/2023
+19,Wireless Charging Pad,Fast-charging pad for compatible devices,39,3000,PowerTech Inc.,15,0.15,3.9x3.9x0.4 inches,4/30/2023
+20,Power Bank 10000mAh,Portable charger for smartphones and tablets,49,2500,PowerTech Inc.,15,0.3,5.8x2.8x0.5 inches,1/5/2023
+21,Smart Doorbell,Video doorbell with motion detection and two-way audio,179,800,SecureTech,5,0.4,4.8x2.4x1.1 inches,3/20/2023
+22,Wireless Keyboard,Compact keyboard with wireless connectivity,39,1500,Input Devices Ltd.,13,0.5,11.1x5.1x0.6 inches,2/10/2023
+23,VR Headset,Virtual reality headset for immersive gaming and experiences,299,600,VirtualTech,16,0.8,7.7x6.5x4.1 inches,5/25/2023
+24,Digital Camera 24MP,High-resolution digital camera for photography enthusiasts,499,400,CameraTech Ltd.,17,1.2,5.2x3.7x2.8 inches,3/10/2023
+25,Compact Drone HD Camera,Compact drone with HD camera for aerial photography,299,300,FlyTech,18,0.5,9.5x7.1x2.0 inches,1/15/2023
+26,Smart Lock,Keyless entry smart lock with remote access,199,700,SecureTech,5,0.6,4.8x2.6x1.0 inches,2/28/2023
+27,Wireless Webcam HD,HD webcam for video conferencing and streaming,79,1500,Connectivity Solutions,12,0.2,3.7x2.4x1.1 inches,4/5/2023
+28,Wireless Presenter,Wireless presenter remote for presentations,29,2000,Input Devices Ltd.,13,0.05,4.1x1.1x0.8 inches,1/20/2023
+29,Wireless Charging Stand,Charging stand for smartphones with wireless charging capability,59,1800,PowerTech Inc.,15,0.3,4.3x3.3x4.3 inches,3/15/2023
+30,Portable SSD 1TB,Portable solid-state drive for high-speed data transfer,199,1000,Storage Solutions,10,0.1,3.9x2.3x0.3 inches,5/5/2023
+31,Wireless Charging Car Mount,Car mount with wireless charging for smartphones,69,1200,PowerTech Inc.,15,0.3,5.9x3.3x2.6 inches,6/10/2023
+32,Smart Plug,Smart plug for remote control of electronic devices,29,2500,HomeTech Ltd.,14,0.1,2.8x1.5x1.5 inches,5/20/2023
+33,Smart Scale,Smart scale for tracking weight and body composition,49,1500,Wearables Inc.,7,3,12.0x12.0x1.0 inches,6/25/2023
+34,Bluetooth FM Transmitter,FM transmitter for streaming music from smartphones,19,2000,Connectivity Solutions,12,0.05,4.7x2.4x1.2 inches,7/5/2023
+35,Wireless Charging Mouse Pad,Mouse pad with built-in wireless charging,39,1800,Input Devices Ltd.,13,0.4,11.8x8.7x0.3 inches,5/30/2023
+36,Bluetooth Car Kit,Bluetooth car kit for hands-free calling and music streaming,39,1500,Connectivity Solutions,12,0.1,4.3x2.3x0.5 inches,6/15/2023
+37,Smart LED Bulb,Smart LED bulb with remote control and dimming,19,3000,HomeTech Ltd.,14,0.2,4.7x2.4x2.4 inches,6/20/2023
+38,Wireless Charging Power Strip,Power strip with wireless charging capabilities,59,1000,PowerTech Inc.,15,1,10.6x3.9x1.2 inches,6/30/2023
+39,Bluetooth FM Radio,Portable FM radio with Bluetooth connectivity,29,2000,AudioTech,4,0.3,6.3x3.5x1.5 inches,7/10/2023
+40,Wireless Charging Desk Lamp,Desk lamp with built-in wireless charging pad,79,800,HomeTech Ltd.,14,2,15.7x5.9x5.9 inches,7/15/2023
+41,Portable CD Player,Portable CD player with anti-skip protection,49,1200,AudioTech,4,0.5,5.6x5.6x1.1 inches,7/20/2023
+42,Bluetooth Adapter USB,Bluetooth adapter for adding wireless connectivity to devices,9,3000,Connectivity Solutions,12,0.02,0.9x0.6x0.3 inches,7/25/2023
+43,Smart Door Lock,Smart door lock with fingerprint recognition and remote access,199,600,SecureTech,5,1.1,5.8x3.0x1.0 inches,7/30/2023
+44,Wireless Charger 15W,15W wireless charger for fast charging compatible devices,29,1800,PowerTech Inc.,15,0.2,3.9x3.9x0.4 inches,8/5/2023
+45,Smart Refrigerator,Refrigerator with smart connectivity and touch screen,2499,300,KitchenTech,19,150,35.8x70.1x33.6 inches,8/10/2023
+46,Robot Vacuum Cleaner,Robot vacuum cleaner with smart navigation and app control,299,800,CleanTech,20,7.5,13.9x13.9x3.8 inches,8/15/2023
+47,Wireless Security System,Home security system with wireless sensors and cameras,399,500,SecureTech,5,4.2,12.8x8.6x3.9 inches,8/20/2023
+48,Smart Coffee Maker,Coffee maker with smart controls and programmable settings,149,900,HomeTech Ltd.,14,4.8,12.7x7.8x9.5 inches,8/25/2023
+49,Smart Watch Lite,Basic smartwatch with essential fitness tracking features,99,2500,Wearables Inc.,7,0.06,1.6x1.4x0.4 inches,8/30/2023
+50,Smart Mirror,Smart mirror with built-in lighting and voice assistant,299,400,HomeTech Ltd.,14,15,28.7x18.7x2.8 inches,9/5/2023
+51,Smart Refrigerator,Refrigerator with smart features and touchscreen display,1499,400,HomeTech Ltd.,14,200,70x35x30 inches,9/10/2023
+52,Portable Projector,Compact projector for presentations and entertainment,299,1000,VisualTech,19,2,8.1x6.3x3.1 inches,9/15/2023
+53,Smart Ceiling Fan,Smart ceiling fan with remote control and voice assistant integration,199,800,HomeTech Ltd.,14,20,52x52x12 inches,9/20/2023
+54,Wireless Charging Backpack,Laptop backpack with built-in wireless charging,79,1200,TravelTech,20,2,18x12x7 inches,9/25/2023
+56,Smart Kitchen Scale,Smart kitchen scale for precise measurements and calorie tracking,49,1000,HomeTech Ltd.,14,2,9x6x0.8 inches,10/5/2023
+57,Wireless Charging Desk Organizer,Desk organizer with built-in wireless charging pad,59,800,HomeTech Ltd.,14,2,9.8x5.9x4.7 inches,10/10/2023
+58,Bluetooth Beanies,Beanies with built-in Bluetooth headphones for wireless music,29,1500,AudioTech,4,0.2,9.8x8.7x1.2 inches,10/15/2023
+59,Smart Water Bottle,Smart water bottle with hydration tracking and reminders,39,1200,Wearables Inc.,7,0.5,10x3x3 inches,10/20/2023
+60,Wireless Charging Mouse,Wireless mouse with built-in wireless charging pad,49,1000,Input Devices Ltd.,13,0.1,4.5x2.5x1.5 inches,10/25/2023
+61,Portable Bluetooth Speaker (Waterproof),Waterproof portable speaker with Bluetooth connectivity,59,800,AudioTech,4,0.8,7x3x3 inches,10/30/2023
+62,Bluetooth Shower Head,Shower head with built-in Bluetooth speaker for music playback,99,600,HomeTech Ltd.,14,2,8x8x4 inches,11/5/2023
+63,Smart Plug Power Strip,Power strip with smart plugs for remote control of devices,69,1000,HomeTech Ltd.,14,1.5,10x4x2 inches,11/10/2023
+64,Bluetooth Beanie with LED Light,Beanie with built-in Bluetooth headphones and LED light,39,1200,AudioTech,4,0.3,9x8x1 inches,11/15/2023
+65,Wireless Charging Bedside Lamp,Bedside lamp with built-in wireless charging pad,79,800,HomeTech Ltd.,14,3,8x8x16 inches,11/20/2023
+66,Bluetooth Bike Speaker,Water-resistant Bluetooth speaker for outdoor activities,49,1000,AudioTech,4,0.4,6x6x2 inches,11/25/2023
+67,Smart Curtain Controller,Smart device for controlling curtains remotely,59,800,HomeTech Ltd.,14,0.2,3x3x1 inches,11/30/2023
+68,Wireless Charging Desk Clock,Desk clock with built-in wireless charging pad,49,1000,HomeTech Ltd.,14,1,5x5x1 inches,12/5/2023
+69,Bluetooth Sunglasses,Sunglasses with built-in Bluetooth headphones for music playback,79,600,AudioTech,4,0.1,6x6x2 inches,12/10/2023
+70,Wireless Charging Laptop Stand,Laptop stand with built-in wireless charging pad,99,800,HomeTech Ltd.,14,5,15x10x5 inches,12/15/2023
+71,Smart Plant Pot,Plant pot with built-in sensors for monitoring plant health,39,1000,HomeTech Ltd.,14,1,6x6x6 inches,12/20/2023
+72,Wireless Charging Wall Clock,Wall clock with built-in wireless charging pad,59,800,HomeTech Ltd.,14,2,12x12x2 inches,12/25/2023
+73,Bluetooth Umbrella,Umbrella with built-in Bluetooth speaker for music playback,49,600,AudioTech,4,1,36x36x24 inches,12/30/2023
+74,Smart Refrigerator,Refrigerator with smart features and touchscreen display,1499,400,HomeTech Ltd.,14,200,70x35x30 inches,1/5/2024
+75,Portable Projector,Compact projector for presentations and entertainment,299,1000,VisualTech,19,2,8.1x6.3x3.1 inches,1/10/2024
+76,Smart Ceiling Fan,Smart ceiling fan with remote control and voice assistant integration,199,800,HomeTech Ltd.,14,20,52x52x12 inches,1/15/2024
+77,Wireless Charging Backpack,Laptop backpack with built-in wireless charging,79,1200,TravelTech,20,2,18x12x7 inches,1/20/2024
+79,Smart Kitchen Scale,Smart kitchen scale for precise measurements and calorie tracking,49,1000,HomeTech Ltd.,14,2,9x6x0.8 inches,1/30/2024
+80,Wireless Charging Desk Organizer,Desk organizer with built-in wireless charging pad,59,800,HomeTech Ltd.,14,2,9.8x5.9x4.7 inches,2/5/2024
+81,Bluetooth Beanies,Beanies with built-in Bluetooth headphones for wireless music,29,1500,AudioTech,4,0.2,9.8x8.7x1.2 inches,2/10/2024
+82,Smart Water Bottle,Smart water bottle with hydration tracking and reminders,39,1200,Wearables Inc.,7,0.5,10x3x3 inches,2/15/2024
+83,Wireless Charging Mouse,Wireless mouse with built-in wireless charging pad,49,1000,Input Devices Ltd.,13,0.1,4.5x2.5x1.5 inches,2/20/2024
+84,Portable Bluetooth Speaker (Waterproof),Waterproof portable speaker with Bluetooth connectivity,59,800,AudioTech,4,0.8,7x3x3 inches,2/25/2024
+85,Bluetooth Shower Head,Shower head with built-in Bluetooth speaker for music playback,99,600,HomeTech Ltd.,14,2,8x8x4 inches,3/1/2024
+86,Smart Plug Power Strip,Power strip with smart plugs for remote control of devices,69,1000,HomeTech Ltd.,14,1.5,10x4x2 inches,3/5/2024
+87,Bluetooth Beanie with LED Light,Beanie with built-in Bluetooth headphones and LED light,39,1200,AudioTech,4,0.3,9x8x1 inches,3/10/2024
+88,Wireless Charging Bedside Lamp,Bedside lamp with built-in wireless charging pad,79,800,HomeTech Ltd.,14,3,8x8x16 inches,3/15/2024
+89,Bluetooth Bike Speaker,Water-resistant Bluetooth speaker for outdoor activities,49,1000,AudioTech,4,0.4,6x6x2 inches,3/20/2024
+90,Smart Curtain Controller,Smart device for controlling curtains remotely,59,800,HomeTech Ltd.,14,0.2,3x3x1 inches,3/25/2024
+91,Wireless Charging Desk Clock,Desk clock with built-in wireless charging pad,49,1000,HomeTech Ltd.,14,1,5x5x1 inches,3/30/2024
+92,Bluetooth Sunglasses,Sunglasses with built-in Bluetooth headphones for music playback,79,600,AudioTech,4,0.1,6x6x2 inches,4/5/2024
+93,Wireless Charging Laptop Stand,Laptop stand with built-in wireless charging pad,99,800,HomeTech Ltd.,14,5,15x10x5 inches,4/10/2024
+94,Smart Plant Pot,Plant pot with built-in sensors for monitoring plant health,39,1000,HomeTech Ltd.,14,1,6x6x6 inches,4/15/2024
+95,Wireless Charging Wall Clock,Wall clock with built-in wireless charging pad,59,800,HomeTech Ltd.,14,2,12x12x2 inches,4/20/2024
+96,Bluetooth Umbrella,Umbrella with built-in Bluetooth speaker for music playback,49,600,AudioTech,4,1,36x36x24 inches,4/25/2024
+97,Smart Refrigerator Pro,Refrigerator with advanced smart features and larger touchscreen display,1799,300,HomeTech Ltd.,14,220,75x40x35 inches,6/1/2024
+98,Portable Projector Plus,High-resolution portable projector for presentations and home theater,349,950,VisualTech,19,2.5,8.3x6.5x3.3 inches,6/5/2024
+99,Smart Ceiling Fan Deluxe,Smart ceiling fan with voice assistant integration and LED lighting,249,750,HomeTech Ltd.,14,22,54x54x13 inches,6/10/2024
+100,Wireless Charging Backpack Pro,Laptop backpack with enhanced wireless charging and anti-theft features,99,1100,TravelTech,20,2.2,19x13x8 inches,6/15/2024
